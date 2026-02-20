@@ -59,7 +59,7 @@ nav {
   align-items: center;
   text-align: center;
   background-image: linear-gradient(rgb(0, 0, 0, 0.6), rgb(0, 0, 0, 0.7)),
-    url(/images/hero.avif);
+    url(images/hero.avif);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
